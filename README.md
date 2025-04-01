@@ -25,7 +25,7 @@ Variables + backend support
 Optional GitHub Actions pipeline for CI/CD
 
 
-
+<code>
 cyberproject1/
 ├── modules/
 │   ├── vpc/
@@ -40,11 +40,11 @@ cyberproject1/
 ├── README.md
 ├── CONTRIBUTING.md
 └── LICENSE
-
+</code>
 
 How you can contribute
 Skill Level	      Contribution Idea
 🌟 Beginner	      Improve docs, test modules, suggest variable defaults
 🛠️ Intermediate  	Add new Terraform modules (e.g., RDS, Lambda, CloudFront)
 🧠 Advanced	      Create CI/CD pipelines, build secure patterns, integrate with GitHub Actions
-itHub Actions or OIDC auth
+
