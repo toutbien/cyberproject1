@@ -42,6 +42,7 @@ cyberproject1/
 └── LICENSE
 
 
+
 How you can contribute
 Skill Level	      Contribution Idea
 🌟 Beginner	      Improve docs, test modules, suggest variable defaults
